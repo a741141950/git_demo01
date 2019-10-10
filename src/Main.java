@@ -5,6 +5,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("HelloWorld!!!,我又回来了啊!");
+        System.out.println("?");
     }
 }
